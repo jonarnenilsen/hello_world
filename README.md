@@ -9,4 +9,4 @@ My name is Jon Arne and I work as a technical consultant. As of right now I am i
 
 Feel free to contact me and all ideas are welcome.
 
-=======================
+========================
